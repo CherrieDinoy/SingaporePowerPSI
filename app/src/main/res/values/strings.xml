@@ -1,0 +1,6 @@
+<resources>
+    <string name="app_name">PSIApp</string>
+    <string name="map">Map</string>
+    <string name="pollutan_sub_indice">Pollutan Sub Indice</string>
+    <string name="pollutant_standards_index">Pollutant Standards Index</string>
+</resources>
